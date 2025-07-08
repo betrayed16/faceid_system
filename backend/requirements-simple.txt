@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+opencv-python-headless
+pillow
+numpy
+# Alternative to face_recognition that's easier to install
+deepface 
